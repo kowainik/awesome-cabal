@@ -82,8 +82,6 @@ system and prefered method, you can choose a suitable way to do that.*
    family of `new-` commands.
  * [Organizing Our Package](https://mmhaskell.com/blog/2020/1/6/organizing-our-package):
    Walk through the process of creating and managing a new Haskell project.
- * [Using Cabal on its Own](https://mmhaskell.com/blog/2020/1/13/using-cabal-on-its-own):
-   Introduction to basic Cabal commands.
 
 ## Scaffolding
 

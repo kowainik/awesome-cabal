@@ -74,7 +74,7 @@ system and prefered method, you can choose a suitable way to do that.*
 
  * [Intoduction](https://www.haskell.org/cabal/users-guide/intro.html):
    Official documentation's introduction.
- * [Haskell build tools (by @kowainik)](https://kowainik.github.io/posts/2018-06-21-haskell-build-tools):
+ * [Haskell build tools (by Kowainik)](https://kowainik.github.io/posts/2018-06-21-haskell-build-tools):
    Description of the basic workflows with the main Haskell build tools. You can
    go straight to the [Cabal section of the post](https://kowainik.github.io/posts/2018-06-21-haskell-build-tools#cabal).
  * [Introduction to Cabal (video)](https://haskell-at-work.com/episodes/2018-05-13-introduction-to-cabal.html):
@@ -161,7 +161,7 @@ still be type-checked.*
 
  * [Edward Z. Yang blog](http://blog.ezyang.com/category/haskell/backpack/):
    Blog posts about Backpack implementation and usage from the Backpack author.
- * [Picnic: Put containers into backpack (by @kowainik)](https://kowainik.github.io/posts/2018-08-19-picnic-put-containers-into-a-backpack):
+ * [Picnic: Put containers into backpack (by Kowainik)](https://kowainik.github.io/posts/2018-08-19-picnic-put-containers-into-a-backpack):
    This blog post walks the reader through the Backpack implementation of the
    uniform interface for containers (`Map`s and `Set`s).
  * [Really small Backpack example](https://github.com/danidiaz/really-small-backpack-example):
@@ -390,6 +390,9 @@ type.*
  * [`exherbo-cabal`](https://hackage.haskell.org/package/exherbo-cabal):
    Generates package description from `.cabal` files in format of exheres-0
    for Exherbo Linux.
+ * [`hackport`](https://hackage.haskell.org/package/hackport):
+   A command line tool to manage an overlay of Gentoo ebuilds that are generated
+   from a hackage repo of Cabal packages.
 
 ## IDE
 

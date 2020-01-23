@@ -327,7 +327,7 @@ Policy.*
  * [`cabal-to-dhall`](https://hackage.haskell.org/package/dhall-to-cabal):
    The opposite of `dhall-to-cabal`. Compiles Cabal to Dhall expressions.
  * [`dhall-hpack-cabal`](https://hackage.haskell.org/package/hpack-dhall):
-   From Dhall, using [hpack](https://github.com/sol/hpack) fields, generate Cabal files.
+   From Dhall, using [hpack](https://github.com/sol/hpack) fields and `*.dhall` imports, generate Cabal files.
  * [`cabal2nix`](https://hackage.haskell.org/package/cabal2nix):
    Convert Cabal files into Nix build instructions.
  * [`nix2cabal`](https://github.com/bef0/nix2cabal):

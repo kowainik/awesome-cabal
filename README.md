@@ -196,8 +196,8 @@ Policy.*
  * [`pvp`](https://github.com/haskell/pvp):
    The GitHub repository to create issues against.
  * [`policeman` (by Kowainik)](https://github.com/kowainik/policeman):
-   Policeman assists to properly choose the next version number according 
-   to PVP (Packaging Version Policy) for the Haskell packages based on the 
+   Policeman assists to properly choose the next version number according
+   to PVP (Packaging Version Policy) for the Haskell packages based on the
    semantical changes to the interface.
  * [`check-pvp`](https://hackage.haskell.org/package/check-pvp):
    Check whether module and package imports conform to the PVP.

@@ -106,7 +106,7 @@ system and prefered method, you can choose a suitable way to do that.*
    Official documentation on the package description format.
  * [CHANGELOG](https://www.haskell.org/cabal/users-guide/file-format-changelog.html):
    Package description format specification history.
- * [Minimal cabal files](https://jpvillaisaza.co/2017/03/14/minimal-cabal-files/):
+ * [Minimal cabal files](https://medium.com/@danidiaz/minimal-cabal-files-revisited-a5810215b0d9):
    Explanation of the minimal possible cabal configuration.
  * [`cabal-fmt`](https://hackage.haskell.org/package/cabal-fmt):
    CLI tool to format `.cabal` files.

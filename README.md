@@ -351,6 +351,7 @@ Policy.*
 type.*
 
  * [Dependencies for Cabal Setup.hs and other goodies](http://www.well-typed.com/blog/2015/07/cabal-setup-deps/)
+ * [`autopack`](https://github.com/kowainik/autopack) (by Kowainik): Automatically discovers Haskell modules and populates `exposed-modules`.
  * [`proto-lens-setup`](https://hackage.haskell.org/package/proto-lens-setup):
    Cabal support for codegen with `proto-lens`.
  * [`cabal-doctest`](https://hackage.haskell.org/package/cabal-doctest):

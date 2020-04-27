@@ -128,7 +128,7 @@ specification.*
    Blog post about Cabal's foreign libraries feature.
  * [Foreign libraries example](https://github.com/pdlla/haskell-ffi-cabal-foreign-library-examples):
    Example usage of foreign libraries.
- * [source-repository-package](https://cabal.readthedocs.io/en/latest/nix-local-build.html#specifying-packages-from-remote-version-control-locations):
+ * [source-repository-package](https://cabal.readthedocs.io/en/latest/cabal-project.html#specifying-packages-from-remote-version-control-locations):
    Specifying packages from remote version control locations (e.g. how to use
    GitHub dependencies in the Cabal packages).
  * [cabal gen-bounds](https://medium.com/@danidiaz/cabal-gen-bounds-630f6de716d9):

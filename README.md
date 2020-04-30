@@ -45,7 +45,7 @@ system and prefered method, you can choose a suitable way to do that.*
  * [`ghcup`](https://www.haskell.org/ghcup/):
    Haskell toolchain installer for **Linux** and **macOS**.
    Use `ghcup install-cabal` command to install Cabal. Refer to the
-   [documentation](https://gitlab.haskell.org/haskell/ghcup) for more details.
+   [documentation](https://gitlab.haskell.org/haskell/ghcup-hs) for more details.
  * [HVR ppa](https://launchpad.net/~hvr/+archive/ubuntu/ghc):
    PPA for **Ubuntu** that includes releases of `Cabal`.
  * [Windows setup](https://hub.zhox.com/posts/introducing-haskell-dev/):
@@ -72,6 +72,7 @@ system and prefered method, you can choose a suitable way to do that.*
 
 *Write-ups and examples that could help to get into `Cabal` and start using it.*
 
+ * [Getting started with Haskell and Cabal](https://cabal.readthedocs.io/en/latest/getting-started.html)
  * [Intoduction](https://www.haskell.org/cabal/users-guide/intro.html):
    Official documentation's introduction.
  * [Haskell build tools (by Kowainik)](https://kowainik.github.io/posts/2018-06-21-haskell-build-tools):
@@ -247,9 +248,6 @@ Policy.*
    Generate pretty graphs of module trees from `.cabal` files.
  * [`cabal-progdeps`](https://hackage.haskell.org/package/cabal-progdeps):
    Show dependencies of program being built in current directory.
- * [`packunused`](https://github.com/haskell-hvr/packunused):
-   Tool for detecting redundant Cabal package dependencies that uses
-   `-ddump-minimal-imports` GHC flag.
  * [`weeder`](https://github.com/ocharles/weeder):
    Tool for detecting redundant Cabal package dependencies that uses `.hie`
    files introduced in GHC-8.8.

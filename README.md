@@ -83,6 +83,8 @@ system and prefered method, you can choose a suitable way to do that.*
    family of `new-` commands.
  * [Organizing Our Package](https://mmhaskell.com/blog/2020/1/6/organizing-our-package):
    Walk through the process of creating and managing a new Haskell project.
+ * [Making the most of Cabal](https://lukelau.me/haskell/posts/making-the-most-of-cabal/):
+   Showcase of different Cabal features.
 
 ## Scaffolding
 
@@ -281,6 +283,9 @@ Policy.*
 
 #### GitHub Actions
 
+ * [Dead simple cross-platform GitHub Actions for Haskell](https://kodimensional.dev/github-actions):
+   Blog post about cross-platform GitHub Actions CI settings for
+   Haskell projects with Cabal and Stack.
  * [`setup-haskell`](https://github.com/actions/setup-haskell):
    Set up your GitHub Actions workflow with a specific version of Haskell (GHC
    and Cabal).
@@ -432,6 +437,8 @@ type.*
    QuickCheck for Cabal.
  * [`simple-cabal`](https://hackage.haskell.org/package/simple-cabal):
    Find and read `.cabal` files, and a Cabal dependency compatibility layer.
+ * [`cabal-file`](https://hackage.haskell.org/package/cabal-file):
+   Cabal file access.
 
 ## Cabal in GSoC
 

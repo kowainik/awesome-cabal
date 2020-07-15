@@ -243,6 +243,8 @@ Policy.*
    Provides access to the cabal file data for shell scripts.
  * [`cab`](https://hackage.haskell.org/package/cab):
    A MacPorts-like maintenance command of Haskell Cabal packages.
+ * [`cabal-edit`](https://github.com/sdiehl/cabal-edit):
+   A utility for managing Hackage dependencies from the command line.
 
 ### Dependencies analysers
 

@@ -81,6 +81,8 @@ system and prefered method, you can choose a suitable way to do that.*
  * [Introduction to Cabal (video)](https://haskell-at-work.com/episodes/2018-05-13-introduction-to-cabal.html):
    In this video Haskell at Work explores the basics of Cabal including the
    family of `new-` commands.
+ * [Haskell Aliases](https://vrom911.github.io/blog/haskell-aliases):
+   Shell aliases for Haskell build tools for higher productivity.
  * [Organizing Our Package](https://mmhaskell.com/blog/2020/1/6/organizing-our-package):
    Walk through the process of creating and managing a new Haskell project.
  * [Making the most of Cabal](https://lukelau.me/haskell/posts/making-the-most-of-cabal/):

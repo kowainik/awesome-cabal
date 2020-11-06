@@ -282,7 +282,7 @@ Policy.*
  * [Haskell & AppVeyor Chocolatey Introduction](https://hub.zhox.com/posts/chocolatey-introduction/):
    Stey-by-step description of building Haskel packages with Chocolatey and
    Cabal on AppVeyor CI.
- * [`appveyor.yml` example](https://github.com/kowainik/tomland/blob/master/appveyor.yml):
+ * [`appveyor.yml` example](https://github.com/kowainik/tomland/blob/main/appveyor.yml):
    Minimal working example of the `appveyor.yml` configuration file.
 
 #### GitHub Actions
@@ -293,7 +293,7 @@ Policy.*
  * [`setup-haskell`](https://github.com/actions/setup-haskell):
    Set up your GitHub Actions workflow with a specific version of Haskell (GHC
    and Cabal).
- * [`actions/cache`](https://github.com/actions/cache/blob/master/examples.md#haskell---cabal):
+ * [`actions/cache`](https://github.com/actions/cache/blob/main/examples.md#haskell---cabal):
    This action allows caching dependencies and build outputs to improve workflow
    execution time.
 
@@ -478,7 +478,7 @@ type.*
 ## Contribute to this repository
 
 Improvements to the Awesome Cabal list are more than welcome. Please read the
-[contributing guidelines](https://github.com/kowainik/awesome-cabal/blob/master/CONTRIBUTING.md),
+[contributing guidelines](https://github.com/kowainik/awesome-cabal/blob/main/CONTRIBUTING.md),
 go ahead and make the difference!
 
 ## License

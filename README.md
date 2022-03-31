@@ -247,6 +247,9 @@ Policy.*
    A MacPorts-like maintenance command of Haskell Cabal packages.
  * [`cabal-edit`](https://github.com/sdiehl/cabal-edit):
    A utility for managing Hackage dependencies from the command line.
+ * [`cabal-clean`](https://github.com/andreasabel/cabal-clean):
+   Removes compilation artefacts in dist-newstyle/build from older versions of
+   the package or superseded minor versions of GHC.
 
 ### Dependencies analysers
 

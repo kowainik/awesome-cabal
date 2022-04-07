@@ -293,6 +293,8 @@ Policy.*
  * [Dead simple cross-platform GitHub Actions for Haskell](https://kodimensional.dev/github-actions):
    Blog post about cross-platform GitHub Actions CI settings for
    Haskell projects with Cabal and Stack.
+ * [`haskell-ci`](https://hackage.haskell.org/package/haskell-ci):
+   Cabal package script generator for GitHub Actions CI.
  * [`setup-haskell`](https://github.com/actions/setup-haskell):
    Set up your GitHub Actions workflow with a specific version of Haskell (GHC
    and Cabal).

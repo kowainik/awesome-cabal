@@ -115,9 +115,9 @@ system and prefered method, you can choose a suitable way to do that.*
    Explanation of the minimal possible cabal configuration.
  * [`cabal-fmt`](https://hackage.haskell.org/package/cabal-fmt):
    CLI tool to format `.cabal` files.
- * [`cabal-info`](https://hackage.haskell.org/package/cabal-info):
+ * ~~[`cabal-info`](https://hackage.haskell.org/package/cabal-info):
    Simple command-line interface to read and output information from the
-   `.cabal` file.
+   `.cabal` file.~~ (archived, Cabal-1.x only)
 
 ## Components
 

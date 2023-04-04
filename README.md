@@ -366,8 +366,6 @@ type.*
  * [`autopack`](https://github.com/kowainik/autopack) (by Kowainik): Automatically discovers Haskell modules and populates `exposed-modules`.
  * [`proto-lens-setup`](https://hackage.haskell.org/package/proto-lens-setup):
    Cabal support for codegen with `proto-lens`.
- * [`cabal-doctest`](https://hackage.haskell.org/package/cabal-doctest):
-   A Setup.hs helper for doctests running.
  * [`liquidhaskell-cabal`](https://hackage.haskell.org/package/liquidhaskell-cabal):
    Liquid Haskell integration for Cabal and Stack.
  * [`liquidhaskell-cabal-demo`](https://hackage.haskell.org/package/liquidhaskell-cabal-demo):
@@ -444,6 +442,10 @@ type.*
    Template Haskell expressions for reading fields from a project's cabal file.
  * [`cabal-test-quickcheck`](https://hackage.haskell.org/package/cabal-test-quickcheck):
    QuickCheck for Cabal.
+ * [`cabal-doctest`](https://hackage.haskell.org/package/cabal-doctest):
+   A Setup.hs helper for doctests running.
+ * [`doctest-extract`](https://hackage.haskell.org/package/doctest-extract):
+   Standalone extraction of doctest code. Optionally emits a list of Test modules for insertion in a Cabal package description.
  * [`simple-cabal`](https://hackage.haskell.org/package/simple-cabal):
    Find and read `.cabal` files, and a Cabal dependency compatibility layer.
  * [`cabal-file`](https://hackage.haskell.org/package/cabal-file):

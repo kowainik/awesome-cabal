@@ -301,6 +301,8 @@ Policy.*
  * [`actions/cache`](https://github.com/actions/cache/blob/main/examples.md#haskell---cabal):
    This action allows caching dependencies and build outputs to improve workflow
    execution time.
+ * [`cabal-plan-bounds`](https://discourse.haskell.org/t/don-t-edit-dependency-bounds-manually-with-this-ci-setup/5539):
+   Never write bounds manually, instead derive them from what CI is actually testing.
 
 #### Circle CI
 

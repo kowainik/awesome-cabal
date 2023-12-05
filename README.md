@@ -352,6 +352,8 @@ Policy.*
  * [`cabal2bazel`](https://github.com/google/cabal2bazel):
    A tool to help with fetching Cabal packages from Hackage and importing them
    as packages into `cabal2bazel`.
+ * [`cargo-cabal`](https://github.com/yvan-sraka/cargo-cabal):
+   A tool that helps you to turn in one command a Rust crate into a Haskell Cabal library.
  * [`jenga`](https://hackage.haskell.org/package/jenga):
    Generate a `cabal.freeze` file from a `stack.yaml`.
  * [`stack2cabal`](https://hackage.haskell.org/package/stack2cabal):
